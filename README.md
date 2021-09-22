@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HACISTEIN
+- 👋 Hi, I’m @HACISTEIN actualy Baran ^^
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning React. (Im begginer at C#,Sql#,Zamarin,Java and Android Studio. 
         Now only focused on Html,Javascript and CSS for React)
