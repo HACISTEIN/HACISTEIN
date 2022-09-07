@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @HACISTEIN actualy Baran ^^
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning React. (Im begginer at C#,Sql#,Zamarin,Java and Android Studio. 
-        Now only focused on Html,Javascript and CSS for React)
-- 💞️ I’m looking to collaborate on React projects.
+- 🌱 Currently learning React. (Im good at C#, Sql, Html, Js, Css , Xamarin.)
+      I know some about Java and Android Stuido too.
+      I have done projects written in these languages.
+- 💞️ looking to collaborate on React projects.
 - 📫 U can reach me from baraner@hotmail.com
 
 <!---
