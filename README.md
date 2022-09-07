@@ -4,7 +4,7 @@
       I know some about Java and Android Stuido too.
       I have done projects written in these languages.
 - 💞️ looking to collaborate on React projects.
-- 📫 U can reach me from baraner@hotmail.com
+- 📫 You can reach me from baraner@hotmail.com
 
 <!---
 HACISTEIN/HACISTEIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
