@@ -5,13 +5,13 @@
 
 - 📄 Know about my experiences [baran-erdogan.net/](https://baran-erdogan.net/)
 
-- 📝 I choosed every skills as i used for my projects under my tools.
+- 📝 I choosed every skills as i used for my projects under my L&T.
 
 - 💬 **Ask me about everything, i will try to my best for answer.** 
 
 - 📫 You can reach me from **baraner@hotmail.com**
 
-- ⚡ **Respectful, Helpful, cheerful, hardworking, improve myself..**
+- ⚡ **Respectful,Helpful,cheerful,hardworking,improve myself..**
 
 - 🌱 **I’m currently coding for my own projects, working as freelance.**
 
