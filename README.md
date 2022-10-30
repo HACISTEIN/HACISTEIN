@@ -1,3 +1,4 @@
+[![MasterHead](https://baran-erdogan.net/Graphs/background/bg.jpg)](https://baran-erdogan.net)
 <h1 align="center">Hi 👋, I'm Baran ERDOGAN</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
