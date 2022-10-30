@@ -1,18 +1,19 @@
 [![MasterHead](https://baran-erdogan.net/Graphs/background/bg.jpg)](https://baran-erdogan.net)
 <h1 align="center">Hi 👋, I'm Baran ERDOGAN</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<img align="right" alt="Coding" width="400" src="https://baran-erdogan.net/Graphs/background/swm.jpg">
 
-- 🌱 I’m currently learning C# and React **I'm getting help from youtube, udemy, code bloggers etc.**
+- 🌱 **I’m currently coding for my own projects, working as freelance.**
 
-- 📝 I choosed every skills as i used for my projects under my skill options. [https://baran-erdogan.net/](https://baran-erdogan.net/)
+- 📝 I choosed every skills as i used for my projects under my skill options.
 
-- 💬 Ask me about everything, i will try to my best for answer. **c# , React (Js,Html,css)**
+- 💬 **Ask me about everything, i will try to my best for answer.** 
 
 - 📫 You can reach me from **baraner@hotmail.com**
 
-- 📄 Know about my experiences [https://baran-erdogan.net/](https://baran-erdogan.net/)
+- ⚡ **Respectful, Helpful, cheerful, hard working and improve myself..**
 
-- ⚡ Beautiful parts of myself **Respectful, Helpful, cheerful, hard working and improve myself..**
+- 📄 Know about my experiences [https://baran-erdogan.net/](https://baran-erdogan.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
