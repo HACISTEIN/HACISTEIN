@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://baran-erdogan.net/Graphs/background/swm.jpg">
 
-- 🌱 **I’m currently coding for my own projects, working as freelance.**
+- 📄 Know about my experiences [baran-erdogan.net/](https://baran-erdogan.net/)
 
-- 📝 I choosed every skills as i used for my projects under my skill options.
+- 📝 I choosed every skills as i used for my projects under my tools.
 
 - 💬 **Ask me about everything, i will try to my best for answer.** 
 
@@ -13,7 +13,7 @@
 
 - ⚡ **Respectful, Helpful, cheerful, hardworking, improve myself..**
 
-- 📄 Know about my experiences [https://baran-erdogan.net/](https://baran-erdogan.net/)
+- 🌱 **I’m currently coding for my own projects, working as freelance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
