@@ -11,7 +11,7 @@
 
 - 📫 You can reach me from **baraner@hotmail.com**
 
-- ⚡ **Respectful, Helpful, cheerful, hard working and improve myself..**
+- ⚡ **Respectful, Helpful, cheerful, hardworking, improve myself..**
 
 - 📄 Know about my experiences [https://baran-erdogan.net/](https://baran-erdogan.net/)
 
